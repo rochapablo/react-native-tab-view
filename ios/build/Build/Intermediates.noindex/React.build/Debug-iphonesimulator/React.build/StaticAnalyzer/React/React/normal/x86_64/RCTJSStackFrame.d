@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/premium/sandbox/examples/react-native-tab-view/node_modules/react-native/React/Base/RCTJSStackFrame.m \
+  /Users/premium/sandbox/examples/react-native-tab-view/node_modules/react-native/React/Base/RCTJSStackFrame.h \
+  /Users/premium/sandbox/examples/react-native-tab-view/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/premium/sandbox/examples/react-native-tab-view/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/premium/sandbox/examples/react-native-tab-view/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/premium/sandbox/examples/react-native-tab-view/node_modules/react-native/React/Base/RCTUtils.h

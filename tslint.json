@@ -1,0 +1,38 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "quotemark": [
+            true,
+            "single"
+        ],
+        "semicolon": [
+            true,
+            "always"
+        ],
+        "ordered-imports": [
+            true,
+            {
+                "import-sources-order": "lowercase-last",
+                "named-imports-order": "lowercase-first"
+            }
+        ],
+        "member-ordering": [
+            true,
+            {
+                "order": "fields-first"
+            }
+        ],
+        "object-literal-sort-keys": true,
+        "max-line-length": [
+            true,
+            1000
+        ],
+        "no-empty-interface": false,
+        "prefer-for-of": false
+    },
+    "rulesDirectory": []
+}
